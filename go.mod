@@ -1,3 +1,3 @@
-module gitlab.eng.vmware.com/chuanhaoq/baby-naming
+module github.com/go-go-go-go-go/baby-naming
 
 go 1.19
